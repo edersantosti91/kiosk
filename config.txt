@@ -1,3 +1,4 @@
+kiosk_config=https://
 connection=wired
 dhcp=yes
 proxy_config=
