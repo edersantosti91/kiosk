@@ -1,25 +1,2 @@
-kiosk_config=https://raw.githubusercontent.com/edersantosti91/kiosk/main/config.txt
-connection=wired
-dhcp=yes
-proxy_config=
-browser=chrome
-enable_file_protocol=yes
-disable_firewall=yes
-homepage=http://www.google.com
-hostname_aliases=10.0.0.15 first.domain.local first
-primary_keyboard_layout=br
-persistence=full
-password_manager=yes
-allow_popup_windows=yes
-disable_private_mode=yes
-removable_devices=yes
-right_mouse_click=yes
-root_password=eder@santos
-shutdown_menu=lock reboot restart-session shutdown sleep 
-default_sound_card=0.3
-volume_level=100%
-timezone=America/Sao_Paulo
-vnc_interactive=yes
-vnc_password=123456
-wallpaper=https://wallpaperaccess.com/full/123112.jpg
-additional_components=09-x11vnc.xzm uefi.zip 08-ssh.xzm 06-fonts.xzm 
+// Permitir todas extensões:
+"ExtensionInstallWhitelist" : [],
