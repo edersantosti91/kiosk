@@ -1,4 +1,4 @@
-kiosk_config=https://
+kiosk_config=https://raw.githubusercontent.com/edersantosti91/kiosk/main/config.txt
 connection=wired
 dhcp=yes
 proxy_config=
