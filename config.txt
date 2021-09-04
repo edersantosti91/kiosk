@@ -2,7 +2,6 @@ connection=wired
 dhcp=yes
 proxy_config=
 browser=chrome
-managed_bookmarks=http://porteus-kiosk.org
 enable_file_protocol=yes
 disable_firewall=yes
 homepage=http://www.google.com
